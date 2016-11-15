@@ -15,7 +15,6 @@ A simple **React Native** app with yarn/npm as package management.
 
 *if have `yarn` installed*
 ```
-#!/bin/bash
 
 yarn install
 
