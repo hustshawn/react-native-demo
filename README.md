@@ -1,5 +1,5 @@
-# react-native-demo #
-
+react-native-demo 
+=================================================================
 This is a react native app demo, that demonstrates a list of artists with their corresponding introduction and their talk sessions in by calendars.
 
 For someone who are new to React Native, it may help you have a basic understanding on how react native works from a very simple start.
