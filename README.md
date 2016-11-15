@@ -1,3 +1,5 @@
+react-native-demo 
+=================================================================
 This is a react native app demo, that demonstrates a list of artists with their corresponding introduction and their talk sessions in by calendars. Basically, it is just a react way to re-create the app as what I firstly learn Ionic, and the all the sources (data and images) from this [project](https://github.com/planetoftheweb/angularMobile).
 For someone who are new to React Native, it may help you have a basic understanding on how react native works from a very simple start.
 
